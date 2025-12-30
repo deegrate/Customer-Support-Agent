@@ -1,0 +1,7 @@
+{
+  "name": "Average Joe Computer Services",
+  "description": "Conversational AI agent for PC repair diagnostics and booking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
